@@ -41,22 +41,48 @@ node server.js
 → http://localhost:5000
 ```
 
-## 📂 Project Structure
+# 📂 Project Structure – Complaint Management System
 
-```
-root/
-├── frontend/     → React + Vite App
+├── backend/
+│   └── server.js                        # Express server & routing logic
+
+├── docs/                                # Documentație și capturi de ecran
+│   ├── Adauga Contestatie.png
+│   ├── Adauga Membru Aditional.png
+│   ├── Cautare Contestatii.png
+│   ├── Dashboard.png
+│   ├── Login.png
+│   ├── Register.png
+│   ├── Stergere Contestatie.png
+│   └── Validare Adaugare Contestatie.png
+
+├── frontend/
 │   └── src/
-├── backend/      → Node.js + Express API
-│   ├── routes/
-│   ├── controllers/
-│   └── server.js
-├── docs/         → Features.md, screenshots, diagrams
-├── .env.example
-├── .gitignore
-├── LICENSE
-└── README.md
-```
+│       ├── components/                  # Componente UI reutilizabile
+│       │   ├── Footer.jsx
+│       │   ├── Header.jsx
+│       │   ├── Layout.jsx
+│       │   └── Sidebar.jsx
+│       │
+│       ├── forms/                       # Formulare și funcționalități business
+│       │   ├── ComplaintForm.jsx
+│       │   ├── EditComplaintForm.jsx
+│       │   ├── FilterComplaintFormFixed.jsx
+│       │   ├── LocationPreselectionForm.jsx
+│       │   └── ReportGenerator.jsx
+│       │
+│       ├── pages/                       # Pagini principale
+│       │   ├── Dashboard.jsx
+│       │   ├── Login.jsx
+│       │   └── Register.jsx
+│       │
+│       ├── App.jsx                      # Componenta principală
+│       ├── main.jsx                     # Punctul de intrare în React
+│       └── index.css                    # Stiluri globale
+
+├── LICENSE.txt                          # Licență personalizată (privat, doar vizualizare)
+└── README.md                            # Documentație principală
+
 
 ##  Author
 
