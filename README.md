@@ -29,20 +29,16 @@ Node.js · Express.js · MySQL · JWT Auth · bcrypt · REST API · Modular Rout
 
 ---
 
-## ⚡ Installation & Setup
+## ⚡ How I Run This Project
 
 ```bash
-# Frontend setup
-cd frontend
-npm install
+# Frontend (React)
 npm run dev
-# App runs at http://localhost:5173
+→ http://localhost:5173
 
-# Backend setup
-cd backend
-npm install
+# Backend (Node.js + Express)
 node server.js
-# API runs at http://localhost:5000
+→ http://localhost:5000
 ```
 
 ## 📂 Project Structure
