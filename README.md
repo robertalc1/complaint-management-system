@@ -1,12 +1,12 @@
 
-# 🛠️ Complaint Management System – Full-Stack Web App
+# Complaint Management System – Full-Stack Web App
 
 > A production-style web application built from scratch for structured complaint tracking and management.  
 > Designed with scalability, security, and real-world user flows in mind.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 **Frontend:**  
 React.js (Vite) · JavaScript · Tailwind CSS · Session Storage · PDF Export · Form Validation
@@ -16,7 +16,7 @@ Node.js · Express.js · MySQL · JWT Auth · bcrypt · REST API · Modular Rout
 
 ---
 
-## 🎯 Features
+##  Features
 
 - 🔐 JWT-based Authentication (secure login/logout)
 - 📝 Complaint Management (create, edit, delete, view)
