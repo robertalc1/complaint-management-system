@@ -23,7 +23,3 @@ This application allows users to file, track, and manage formal complaints effic
 - **Database:** MySQL
 - **Auth:** JWT, bcrypt
 - **Tools:** sessionStorage, PDF generation, Git
-
----
-
-> Built to simulate a real software delivery pipeline from design to deployment.
