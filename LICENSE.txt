@@ -1,1 +1,8 @@
 
+Copyright (c) 2025 Alcaziu Robert
+
+All rights reserved.
+
+This project is intended solely for demonstration purposes. Unauthorized use, reproduction, or distribution of this code, in whole or in part, is strictly prohibited without the express written permission of the author.
+
+For inquiries, please contact: contact@alcaziurobert.ro
