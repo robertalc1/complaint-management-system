@@ -9,7 +9,7 @@
 ## 🚀 Tech Stack
 
 **Frontend:**  
-React.js (Vite) · Tailwind CSS · Session Storage · PDF Export · Form Validation
+React.js (Vite) · JavaScript · Tailwind CSS · Session Storage · PDF Export · Form Validation
 
 **Backend:**  
 Node.js · Express.js · MySQL · JWT Auth · bcrypt · REST API · Modular Routing
