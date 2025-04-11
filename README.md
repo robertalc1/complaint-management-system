@@ -18,14 +18,14 @@ Node.js · Express.js · MySQL · JWT Auth · bcrypt · REST API · Modular Rout
 
 ##  Features
 
-- 🔐 JWT-based Authentication (secure login/logout)
-- 📝 Complaint Management (create, edit, delete, view)
-- 📁 PDF Report Export (auto-generated formatted reports)
-- 🎛️ Admin Dashboard (filter, manage, control)
-- 📱 Responsive UI (Tailwind CSS, mobile-ready)
-- 🧩 Reusable Components (clean and scalable structure)
-- 📂 Modular Backend Architecture (routes/controllers)
-- ✅ Front & Backend Validation
+-  JWT-based Authentication (secure login/logout)
+-  Complaint Management (create, edit, delete, view)
+-  PDF Report Export (auto-generated formatted reports)
+-  Admin Dashboard (filter, manage, control)
+-  Responsive UI (Tailwind CSS, mobile-ready)
+-  Reusable Components (clean and scalable structure)
+-  Modular Backend Architecture (routes/controllers)
+-  Front & Backend Validation
 
 ---
 
