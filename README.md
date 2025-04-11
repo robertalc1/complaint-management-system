@@ -41,8 +41,9 @@ node server.js
 → http://localhost:5000
 ```
 
-# 📂 Project Structure – Complaint Management System
+## 📂 Project Structure – Complaint Management System
 
+```
 ├── backend/
 │   └── server.js                        # Express server & routing logic
 
@@ -82,6 +83,8 @@ node server.js
 
 ├── LICENSE.txt                          # Licență personalizată (privat, doar vizualizare)
 └── README.md                            # Documentație principală
+```
+
 
 
 ##  Author
