@@ -18,7 +18,7 @@ This application allows users to file, track, and manage formal complaints effic
 
 ## 🧑‍💻 Technologies Used
 
-- **Frontend:** React.js, Tailwind CSS
+- **Frontend:** React.js, Tailwind CSS, Vite
 - **Backend:** Node.js, Express
 - **Database:** MySQL
 - **Auth:** JWT, bcrypt
