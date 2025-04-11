@@ -58,9 +58,9 @@ root/
 └── README.md
 ```
 
-## 🙋‍♂️ Author
+##  Author
 
-**Robert Alcaziu**  
+**Alcaziu Robert**  
 🔗 [Portfolio](https://alcaziurobert.ro) • [LinkedIn](https://linkedin.com/in/alcaziurobert) • [GitHub](https://github.com/robertalc1)
 
 
