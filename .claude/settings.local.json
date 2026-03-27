@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cd /c/Users/user/Desktop/complaint-management-system-private/backend && npm install archiver 2>&1)",
+      "Bash(echo Could not parse transcript:*)",
+      "Bash(tail:*)",
+      "Bash(node:*)",
+      "Bash(npm install:*)",
+      "Bash(npx acorn:*)",
+      "Bash(npx vite:*)"
+    ]
+  }
+}
